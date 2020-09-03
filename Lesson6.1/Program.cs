@@ -10,7 +10,7 @@ namespace Lesson6._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Print four-digit number");
+            Console.WriteLine("Print sum of four-digit number");
             string number = Console.ReadLine();
             int b = int.Parse(number);
 
